@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#151a24"/>
+  <rect x="0.5" y="0.5" width="899" height="699" fill="none" stroke="#232a38" stroke-width="1"/>
+  <g stroke="#232a38" stroke-width="1">
+    <line x1="0" y1="175" x2="900" y2="175"/>
+    <line x1="0" y1="350" x2="900" y2="350"/>
+    <line x1="0" y1="525" x2="900" y2="525"/>
+    <line x1="225" y1="0" x2="225" y2="700"/>
+    <line x1="450" y1="0" x2="450" y2="700"/>
+    <line x1="675" y1="0" x2="675" y2="700"/>
+  </g>
+  <rect x="350" y="280" width="200" height="140" rx="8" fill="none" stroke="#38bdf8" stroke-width="4"/>
+  <text x="450" y="360" font-family="monospace" font-size="26" fill="#38bdf8" text-anchor="middle">Hero Photo</text>
+</svg>
